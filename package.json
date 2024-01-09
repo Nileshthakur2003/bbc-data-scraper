@@ -1,0 +1,25 @@
+{
+  "name": "bbcdata",
+  "version": "1.0.0",
+  "description": "A simple data scraper from BBC's website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nileshthakur2003/bbc-data-scraper.git"
+  },
+  "keywords": [
+    "bbc",
+    "data",
+    "news",
+    "realtime"
+  ],
+  "author": "Nileshthakur2003",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nileshthakur2003/bbc-data-scraper/issues"
+  },
+  "homepage": "https://github.com/Nileshthakur2003/bbc-data-scraper#readme"
+}
